@@ -2,9 +2,6 @@
 ServiceAPI
 
 # E_trade / Service
-## service_views.ExchangeRate.as_view()
-api/exchange-rate
-
-api/banner
-
-api/product-7
+    meandmrleo.com/service/api/exchange-rate
+    meandmrleo.com/service/api/banner
+    meandmrleo.com/service/api/product-7
